@@ -1,0 +1,9 @@
+numpy
+matplotlib
+pretty_midi
+librosa
+mir_eval
+tables
+torch
+torchvision
+torchaudio
